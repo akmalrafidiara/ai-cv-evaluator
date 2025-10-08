@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+pydantic
+psycopg2-binary
+redis 
+celery 
+python-dotenv
+python-multipart
+pypdf
+
+langchain-core
+langchain-community
+qdrant-client
+
+google-genai
+langchain-google-genai
